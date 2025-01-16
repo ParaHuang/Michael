@@ -3,6 +3,7 @@ package day3;
 public class Main3 {
 
 	public static void main(String[] args) {
+		
 		//type[] aryName = new type[length];
 		//defined an array, the length is 5;
 		int[] ary = new int[5];
